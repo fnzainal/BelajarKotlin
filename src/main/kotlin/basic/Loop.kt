@@ -1,3 +1,10 @@
+package basic
+
+/**
+ * fnzainal (c) 2018
+ * write on 5/13/18
+ */
+
 fun main(args: Array<String>){
     //array list
     val newNames = arrayListOf("Zain","Alfah","Rudin")

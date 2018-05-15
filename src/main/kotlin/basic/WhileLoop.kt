@@ -1,3 +1,10 @@
+package basic
+
+/**
+ * fnzainal (c) 2018
+ * write on 5/15/18
+ */
+
 var newNames: ArrayList<String> = arrayListOf()
 
 fun main(args: Array<String>){

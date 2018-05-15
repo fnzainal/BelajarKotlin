@@ -1,3 +1,10 @@
+package basic
+
+/**
+ * fnzainal (c) 2018
+ * write on 5/13/18
+ */
+
 fun main(args: Array<String>){
     val names = listOf("Zain","Alfah","Rudin")
     // mengambil item dari sebuah list

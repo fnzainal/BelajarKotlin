@@ -1,3 +1,10 @@
+package basic
+
+/**
+ * fnzainal (c) 2018
+ * write on 5/13/18
+ */
+
 fun main(args: Array<String>){
     // var = mutable -- bisa dirubah nilai / value nya
     var a = 1

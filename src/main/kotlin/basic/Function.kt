@@ -1,3 +1,9 @@
+package basic
+
+/**
+ * fnzainal (c) 2018
+ * write on 5/15/18 9:58 AM
+ */
 
 fun main(args: Array<String>){
     // memanggil function print
@@ -12,7 +18,7 @@ fun main(args: Array<String>){
     displayName(name)
 
     // memanggil function dengan return Int
-    val hasil = hitungNilai(4,3)
+    val hasil = hitungNilai(4, 3)
 
     // menampilkan print
     println("Result is = $hasil")

@@ -1,3 +1,10 @@
+package basic
+
+/**
+ * fnzainal (c) 2018
+ * write on 5/14/18
+ */
+
 fun main(args: Array<String>){
     val sample: String = "Halo"+12
     val number: Int = 2

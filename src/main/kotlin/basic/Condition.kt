@@ -1,3 +1,9 @@
+package basic
+/**
+ * fnzainal (c) 2018
+ * write on 5/14/18 8:58 PM
+ */
+
 fun main(args: Array<String>){
 
     // print pesan string

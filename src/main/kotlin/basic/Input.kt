@@ -1,3 +1,10 @@
+package basic
+
+/**
+ * fnzainal (c) 2018
+ * write on 5/14/18
+ */
+
 fun main(args: Array<String>){
     // print string
     print("Whats your name? ")
