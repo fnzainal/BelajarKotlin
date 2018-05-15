@@ -30,4 +30,5 @@ out/production/classes/LoopKt.class
 /out/
 /gradlew
 /gradlew.bat
-/.idea/
+/.idea/vcs.xml
+/.idea/workspace.xml
