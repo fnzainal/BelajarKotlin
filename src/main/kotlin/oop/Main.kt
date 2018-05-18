@@ -34,10 +34,12 @@ fun main(args: Array<String>) {
 
     val singleton= SingletonPerson
     singleton.name = "Zain"
+    SingletonPerson.name = "Rudin"
 
 
     val singleton2= SingletonPerson
     println("singleton 1 ${singleton.name}")
     println("singleton 2 ${singleton2.name}")
+
 
 }
