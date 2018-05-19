@@ -5,6 +5,9 @@ package oop.enum_class
  * write on 5/18/18 2:16 PM
  */
 
+/**
+ * enum class : untuk menyimpan data saja
+ */
 enum class PersonAction{
     RUN, WALK, BIKING
 }
